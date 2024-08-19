@@ -1,0 +1,31 @@
+package com.game.object.util;
+
+public enum ObjectId {
+    Player,
+    EnemyG,
+    EnemyN,
+    Block,
+    EndTile,
+    Pipe,
+	Cloud,
+	Mountain1,
+	Mountain2,
+	Grass,
+	Sea,
+	Castle,
+	ItemBlocks,
+	CoinBlocks,
+	TransparentBlock,
+	StarBlock,
+	Coin,
+	Coin2,
+	Mushroom,
+	LifeMushroom,
+	Flower,
+	Star,
+	FireBall,
+	Flag1,
+	Flag2,
+	Flag3,
+	EndFlag;
+}
